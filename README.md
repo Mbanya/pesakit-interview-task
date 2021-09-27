@@ -9,6 +9,8 @@
 
 
 # API Authentication calls
+Preferable to use `POSTMAN` as your api-platform for testing
+
 To start
 
     - Register a new user on
@@ -22,7 +24,7 @@ OR
 
 Once registered or logged in you will get a response with a `user object and token`
 
-Preferable to use `POSTMAN` as your api-platform for testing
+
 
 * To access below endpoints pass the above `token` as bearer-token
 
